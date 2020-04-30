@@ -171,3 +171,11 @@
     var arr = [ 1,5,1,7,5,9];
     Math.max(...arr)  // 9
 ```
+
+### 24.JS中的算法与数据结构——链表(Linked-list)
+
+**[链表](https://www.jianshu.com/p/f254ec665e57)**
+
+### 25.http缓存机制
+
+**[链表](https://www.cnblogs.com/chengxs/p/10396066.html)**
