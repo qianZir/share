@@ -178,7 +178,7 @@
 
 ### 25.http缓存机制
 
-**[链表](https://www.cnblogs.com/chengxs/p/10396066.html)**
+**[http缓存机制](https://www.cnblogs.com/chengxs/p/10396066.html)**
 
 ### 26. ES6数组去重 
 
