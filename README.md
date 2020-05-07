@@ -179,3 +179,13 @@
 ### 25.http缓存机制
 
 **[链表](https://www.cnblogs.com/chengxs/p/10396066.html)**
+
+### 26. ES6数组去重 
+
+```
+var arr = new Set([1, 2, 1, 1, 2, 3, 3, 4, 4]);
+for (var el of arr) {
+    console.log(el)
+}
+```
+
