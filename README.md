@@ -195,3 +195,8 @@ for (var el of arr) {
 }
 ```
 
+### 27. chunkfilename 和 filename的区别（webpack）
+Output：有两个配置filename和chunkFilename
+Filename：打包同步代码
+chunkFilename：打包异步代码
+
