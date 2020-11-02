@@ -41,15 +41,12 @@
 ### 2. es6新特性
 **[es6新特性](https://juejin.im/post/5b9cb3336fb9a05d290ee47e)**
 
-### 3. es6新特性
-**[es6新特性](https://juejin.im/post/5b9cb3336fb9a05d290ee47e)**
-
-### 4. 防抖函数、数据去重
+### 3. 防抖函数、数据去重
 **[防抖函数](https://juejin.im/post/5cfe66fa6fb9a07ee1691ddb)**
 
 **[数组去重](https://juejin.im/post/5b0284ac51882542ad774c45)**
 
-### 5.集合
+### 4.集合
 **[集合](https://www.cnblogs.com/chenwenhao/p/11253403.html)**
 
 
