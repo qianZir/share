@@ -58,6 +58,7 @@
 > react
 
 **[react](https://segmentfault.com/a/1190000016885832?utm_source=tag-newest)**
+**[react2](https://juejin.im/post/6844904025066831879)**
 
 >webpack
 
