@@ -237,3 +237,6 @@ chunkFilename：打包异步代码
 #### (6)滴滴出行小程序体积优化实践
 
 **[体积优化](https://mp.weixin.qq.com/s/E8iBnQtpZloQHIYlgNLFHg)**
+
+### 29.vue全局方法
+通过原型链的方式：Vue.prototype.$methods = methods 来实现全局方法
