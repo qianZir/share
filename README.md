@@ -238,5 +238,11 @@ chunkFilename：打包异步代码
 
 **[体积优化](https://mp.weixin.qq.com/s/E8iBnQtpZloQHIYlgNLFHg)**
 
-### 29.vue全局方法
+### 29. vue 全局方法
+
 通过原型链的方式：Vue.prototype.$methods = methods 来实现全局方法
+
+### 30. js 的原型和原型链
+
+原型链是一种关系，实例对象和原型对象之间的关系，关系是通过原型('__proto__')来联系的
+**[js 的原型和原型链](https://www.jianshu.com/p/be7c95714586)**
