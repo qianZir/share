@@ -72,6 +72,12 @@
 
 **[webpack](https://www.jianshu.com/p/e80d38661358)**
 
+> 常见题集合
+
+**[常见题集合 1](https://www.cnblogs.com/sexintercourse/p/12418512.html)**
+**[常见题集合 2](https://zhuanlan.zhihu.com/p/114278057)**
+**[常见题集合 3](https://blog.csdn.net/sinat_39049092/article/details/114260739)**
+
 # 可能遇到的问题和我的常忘题
 
 ## ps:以下没有标准答案或上面有答案。
@@ -264,3 +270,30 @@ chunkFilename：打包异步代码
 ### 31. 构造函数
 
 通过 new 函数名 来实例化对象的函数叫构造函数。任何的函数都可以作为构造函数存在。之所以有构造函数与普通函数之分，主要从功能上进行区别的，构造函数的主要 功能为 初始化对象，特点是和 new 一起使用。new 就是在创建对象，从无到有，构造函数就是在为初始化的对象添加属性和方法。构造函数定义时首字母大写（规范）。
+
+### 32.javaSript 基本类型及判断
+
+boolean string number null undefined symbol object
+
+```
+function getType(obj){
+    const str = Object.prototype.toString.call(obj)
+     const map = {
+    '[object Boolean]': 'boolean',
+    '[object Number]': 'number',
+    '[object String]': 'string',
+    '[object Function]': 'function',
+    '[object Array]': 'array',
+    '[object Date]': 'date',
+    '[object RegExp]': 'regExp',
+    '[object Undefined]': 'undefined',
+    '[object Null]': 'null',
+    '[object Object]': 'object'
+  };
+  return map[str];
+}
+```
+
+### 33.promise 有多少种状态
+
+pending、fulfilled、rejected(未决定，履行，拒绝)
