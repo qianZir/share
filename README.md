@@ -77,6 +77,7 @@
 **[常见题集合 1](https://www.cnblogs.com/sexintercourse/p/12418512.html)**
 **[常见题集合 2](https://zhuanlan.zhihu.com/p/114278057)**
 **[常见题集合 3](https://blog.csdn.net/sinat_39049092/article/details/114260739)**
+**[100 道题目](https://github.com/yygmind/blog/issues/43)**
 
 # 可能遇到的问题和我的常忘题
 
